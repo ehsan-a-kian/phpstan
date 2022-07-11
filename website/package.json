@@ -4,7 +4,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"@stripe/stripe-js": "^1.20.3",
-		"codemirror": "^5.64.0",
+		"codemirror": "^6.0.0",
 		"docsearch.js": "2",
 		"jquery": "^3.6.0",
 		"knockout": "^3.5.1",
@@ -27,7 +27,7 @@
 		"@types/mermaid": "^8.2.9",
 		"@types/prismjs": "^1.26.0",
 		"autoprefixer": "^10.3.7",
-		"luxon": "^2.0.0",
+		"luxon": "^3.0.0",
 		"markdown-it-abbr": "^1.0.4",
 		"markdown-it-anchor": "^8.0.0",
 		"markdown-it-attrs": "^4.1.3",
